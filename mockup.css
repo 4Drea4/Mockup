@@ -1,0 +1,90 @@
+#google {
+width: 25%;
+height: 25%;
+margin-left: 10px;
+margin-top: 150px; }
+
+.grid-container { display: flex;
+justify-content: center;}
+
+.together { display: flex;
+justify-content: center;}
+
+/* #box { display:flex;
+justify-content: center;}
+.boxed {
+width: 1000px;
+height: 3px;
+border: 3px solid skyblue;
+padding: 40px;
+margin: 20px;
+margin-left: 400px;
+} */
+
+
+#search {
+  display:flex;
+  justify-content: center;
+  width: 1000px;
+  height: 3px;
+  border: 3px solid skyblue;
+  padding: 40px;
+  margin: 20px;
+  margin-left: 400px;
+  /* margin-right: 200px;
+  margin-bottom:700px; */
+
+}
+/* .buttons-container { display: inline;} */
+.google {
+  display: inline;
+width: 200px;
+height: 3px;
+background-color:grey;
+padding: 20px;
+ /* margin-top: 500px; */
+margin: 20px;
+/* margin-left: 100px; */ */
+}
+
+.search {
+  display: inline;
+width: 200px;
+height: 3px;
+background-color: grey ;
+ padding: 20px;
+ /* margin-top: 500px; */
+  margin: 20px;
+/* margin-top: 600px;
+margin-left: 400px; */ */
+}
+
+.unwrap {display: flex;
+justify-content: center;}
+}
+p.Android {
+  margin-left:200px;
+  color: #007CFF ;
+  margin-top: 0px;
+}
+p.IOS {
+  margin-left: 50px;
+  margin-top:50px;
+   color:#007CFF ; }
+
+.gift {
+  display: flex;
+  justify-content: center;
+width: 5vh;
+height:5vh;
+margin-top: 0px;
+margin-left: 600px;
+padding: 5px;
+}
+
+/* .buttons-container {
+  display: flex;
+  justify-content: center;
+}
+
+div { display: inline;} */
